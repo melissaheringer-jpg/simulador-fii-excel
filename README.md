@@ -39,5 +39,16 @@ Com o desenvolvimento deste projeto, foram aplicados os seguintes conceitos:
 - Criação de ferramentas de simulação de investimentos em Excel  
 - Aplicação de cálculos financeiros, como rendimento mensal e dividendos  
 - Organização e documentação de processos técnicos  
-- Utilização do GitHub para compartilhamento de documentação técnica  
+- Utilização do GitHub para compartilhamento de documentação técnica
+  ## Screenshots da Planilha
+
+### Tela Inicial da Simulação
+![Tela Inicial](images/tela-inicial.png)
+
+### Seleção do Perfil do Investidor
+![Perfil do Investidor](images/perfil-investidor.png)
+
+### Gráfico de Investimentos
+![Gráfico de Investimentos](images/grafico-investimentos.png)
+
 
